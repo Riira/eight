@@ -1,0 +1,108 @@
+body{
+    background-color: #50d7bc;
+    
+}
+.main-d{
+    height: 2000px;
+    width: 1500px;
+    background-color: #ebff84;
+    position: absolute;
+    left: 205px;
+    border-radius: 40px;
+}
+.title-d{
+    width: 910px;
+    height: 197px;
+    background-color: #ebff84;
+    position: absolute;
+    top: 32px;
+    left: 286px;
+    border-radius: 40px;
+    box-shadow: 15px 15px 20px #efff2f, -15px -15px 20px #efff2f;
+}
+.title{
+    font-family: SF Arabic Bold;
+    color: #347300;
+    font-size: 103px;
+    position: relative;
+    left: 44px;
+    top: -72px;
+}
+#l-name{
+    position: relative;
+    left: 1396px;
+    top: 248px;
+    font-size: 20px;
+    font-family: SF Arabic Bold;
+}
+#i-name{
+    background-color:#fffef5;
+    height: 38px;
+    width: 227px;
+    position: relative;
+    left: 1182px;
+    top: 265px;
+    border: 2px solid #119006 ;
+    border-radius: 5px;
+    font-family: SF Arabic Bold;
+    
+}
+#l-lastName{
+    position: relative;
+    left: 1078px;
+    top: 368px;
+    font-size: 20px;
+    font-family: SF Arabic Bold;
+}
+#i-lastName{
+    background-color:#fffef5;
+    height: 38px;
+    width: 227px;
+    position: relative;
+    left: 1182px;
+    top: 371px;
+    border: 2px solid #119006 ;
+    border-radius: 5px;
+    font-family: SF Arabic Bold;
+}
+#i-genderM{
+    font-family: SF Arabic Bold;
+    position: relative;
+    
+}
+#l-shop{
+    position: relative;
+    left: 1224px;
+    top: 423px;
+    font-size: 20px;
+    font-family: SF Arabic Bold;
+}
+#i-shop{
+    background-color:#fffef5;
+    height: 38px;
+    width: 227px;
+    position: relative;
+    left: 1182px;
+    top: 437px;
+    border: 2px solid #119006 ;
+    border-radius: 5px;
+    font-family: SF Arabic Bold;
+}
+#l-instagram{
+    position: relative;
+    left: 1282px;
+    top: 508px;
+    font-size: 20px;
+    font-family: SF Arabic Bold; 
+}
+#i-instagram{
+    background-color:#fffef5;
+    height: 38px;
+    width: 227px;
+    position: relative;
+    left: 1182px;
+    top: 525px;
+    border: 2px solid #119006 ;
+    border-radius: 5px;
+    font-family: SF Arabic Bold;
+}
